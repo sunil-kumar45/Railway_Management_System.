@@ -1,4 +1,4 @@
-# Railway_Management_System.
+# Railway_Management_System. 
 # Description
 The railway management system allows passengers to enquire about available trains based on their boarding station and arrival station, purchase and cancel tickets, and check the status of their booked tickets, among other things. The goal of this case study is to design and develop a database that stores information about various trains, train status, and passengers. The number, name, source, destination, and days on which the train is available are all included in the train record, whereas the train status record includes the dates for which tickets can be booked, the total number of seats available, and the number of seats already booked.
 
